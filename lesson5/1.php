@@ -1,5 +1,4 @@
-<meta http-equiv="refresh" content="5">
-<p style="color:#4f00ff">Обновление входных параметров каждые 5 секунд</p>
+<a href="#" title="Оч" class="btn btn-primary" onclick="window.location.reload();">Обновить входящие данные</a>
 <?php
 $num = rand (1, 4);
 $day = rand (1, 31);
