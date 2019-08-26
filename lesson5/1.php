@@ -1,4 +1,3 @@
-<a href="#" title="Оч" class="btn btn-primary" onclick="window.location.reload();">Обновить входящие данные</a>
 <?php
 $num = rand (1, 4);
 $day = rand (1, 31);
@@ -37,3 +36,5 @@ if ($month >= 1 & $month <= 2){
     printf('В переменную $month  попало число %s значит сейчас Осень <br>',$month);
 }
 else  printf('В переменную $month  попало число %s значит сейчас Зима <br>',$month);
+?>
+<a href="#" title="Оч" class="btn btn-primary" onclick="window.location.reload();">Обновить входящие данные</a>
