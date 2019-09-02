@@ -21,5 +21,6 @@ function operation($numOne, $numTwo, $str)
 }
 
 $result = operation(509, 675, 'sub');
+$result = operation(509, 675, 'add');
 printf("\$result = %s", $result);
 ?>
