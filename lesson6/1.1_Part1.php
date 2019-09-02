@@ -4,7 +4,7 @@
     <TITLE>Калькулятор</TITLE>
 </HEAD>
 <BODY>
-<FORM method= "post" action="1.1-2.php">
+<FORM method= "post" action="1.1_Part2.php">
     <INPUT name="one" type="text" placeholder="Введите целое число">
     <select name="op1" autofocus>
         <option  selected disabled>Выберите Операнд</option>

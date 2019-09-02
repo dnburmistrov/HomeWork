@@ -28,4 +28,4 @@ if (empty($_POST['one']) || empty($_POST['two']) || empty($_POST['op1'])) {
 }
 
 ?>
-<p><a href="1.1-1.php">Вернутся назад</a></p>
+<p><a href="1.1_Part1.php">Вернутся назад</a></p>
